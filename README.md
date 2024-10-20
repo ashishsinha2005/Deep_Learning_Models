@@ -19,7 +19,7 @@ The Indexing in GitHub Corresponds to Indexing in my local system.
 
 | Indexing| Indexing in Github     | Title                |
 | :-------- | :------- | :------------------------- |
-| 1 | 1.10 |deep learning Smart Grid
+| 1 | 1.16 |deep learning Smart Grid
 | 2 | 1.11 | corn life disease prediction
  | 3 | 1.12 |bone fracture detection |
 | 4 | 1.14 | Energy Price time series forecasting with LSTM |
