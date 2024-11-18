@@ -24,6 +24,9 @@ The Indexing in GitHub Corresponds to Indexing in my local system.
  | 3 | 2.3 |bone fracture detection |
 | 4 | 2.4 | Energy Price time series forecasting with LSTM |
 | 5 | 4.3 | convolutional neural network |
+| 6 | 5 | CNN Transfer learning |
+| 7 | 6 | NLP transformers |
+| 8 | 7 | Corn-leaf-disease-detection-with-resnet-pytorch |
 
 
 
