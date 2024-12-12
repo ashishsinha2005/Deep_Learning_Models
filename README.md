@@ -5,7 +5,7 @@ This Repository has the Following Models related to Deep learning Models.
 
 Data files are not uploaded for some Models due to their large size. Please feel free to reach out to me for the data file.
 
-The Indexing in GitHub Corresponds to Indexing in my local system.
+(The Indexing in GitHub Corresponds to Indexing in my local system, Ignore this number).
 
 
 
@@ -32,7 +32,7 @@ The Indexing in GitHub Corresponds to Indexing in my local system.
 | 11 | Models 93 | Brain Tumor Detection using Attention Mechanism  |
 | 12 | Models 99 | Spine X-ray images Classification using Attention Mechanism |
 | 13 | Models 119 | Automated Diagnosis of Diabetic Retinopathy Using VGG16, MobileNet, and Multi-Head Attention  |
-| 14 | 7 | Ovarian Cancer  Classification  with Differential Attention Mechanism  |
+| 14 | Models 123 | Ovarian Cancer  Classification  with Differential Attention Mechanism  |
 
 
 
