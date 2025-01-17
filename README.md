@@ -33,7 +33,7 @@ Data files are not uploaded for some Models due to their large size. Please feel
 | 12 | Models 99 | Spine X-ray images Classification using Attention Mechanism |
 | 13 | Models 119 | Automated Diagnosis of Diabetic Retinopathy Using VGG16, MobileNet, and Multi-Head Attention  |
 | 14 | Models 123 | Ovarian Cancer  Classification  with Differential Attention Mechanism  |
-| 15 | 162 | 162.Abstractive_Text_Summarization_Transformer_Model  |
+| 15 | 162 | Abstractive_Text_Summarization_Transformer_Model  |
 
 
 
