@@ -25,7 +25,7 @@ Data files are not uploaded for some Models due to their large size. Please feel
 | 4 | 2.4 | Energy Price time series forecasting with LSTM |
 | 5 | 4.3 | convolutional neural network |
 | 6 | 5 | CNN Transfer learning |
-| 7 | 6 | NLP transformers |
+| 7 | 113 | Transformer_Based_Sentimental Analysis |
 | 8 | 7 | Corn-leaf-disease-detection-with-resnet-pytorch |
 | 9 | Models 115 | Autism Detection: Differential Attention Mechanism |
 | 10 | Models 71  | Ovarian Cancer Subtype Classification with Differential Attention Mechanism |
@@ -33,6 +33,7 @@ Data files are not uploaded for some Models due to their large size. Please feel
 | 12 | Models 99 | Spine X-ray images Classification using Attention Mechanism |
 | 13 | Models 119 | Automated Diagnosis of Diabetic Retinopathy Using VGG16, MobileNet, and Multi-Head Attention  |
 | 14 | Models 123 | Ovarian Cancer  Classification  with Differential Attention Mechanism  |
+| 15 | 162 | 162.Abstractive_Text_Summarization_Transformer_Model  |
 
 
 
