@@ -33,4 +33,6 @@ applies a mathematical transformation to its inputs and passes the result
 to the next layer. The network learns by adjusting the connections 
 (weights) between neurons to minimize the error in predictions, typically 
 measured by a loss function. This process allows the neural network to 
-generalize and correctly classify new, unseen data
+generalize and correctly classify new, unseen data.
+
+![image alt](https://github.com/ashishsinha2005/Deep_Learning_Models/blob/master/Models87.pytorch_classification/proj_33.jpg)
