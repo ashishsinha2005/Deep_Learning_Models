@@ -27,7 +27,7 @@ Data files are not uploaded for some Models due to their large size. Please feel
 | 6 | 5 | CNN Transfer learning |
 | 7 | 113 | Transformer_Based_Sentimental Analysis |
 | 8 | 7 | Corn-leaf-disease-detection-with-resnet-pytorch |
-| 9 | Models 115 | PreTrainedModelsWithDifferentialMechanism1 |
+| 9 | Models 115 | InceptionV3 &Xception Models with Differential Attention Mechanism |
 | 10 | Models 71  | CNNExceptionInception |
 | 11 | Models 93 | PreTrainedModelsWithDifferentialMechanism3  |
 | 12 | Models 99 | PreTrainedModelsWithDifferentialMechanism2 |
