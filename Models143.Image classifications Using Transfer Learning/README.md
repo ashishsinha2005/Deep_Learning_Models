@@ -21,3 +21,5 @@
 ## Result:
 - The new system reduced downtime by 40%, enabling quicker issue resolution and improved SLA compliance. 
 - Additionally, the solution increased service reliability and enhanced customer satisfaction by proactively addressing anomalies.
+
+ ![image alt](https://github.com/ashishsinha2005/Deep_Learning_Models/blob/master/Models143.Image%20classifications%20Using%20Transfer%20Learning/proj_36.jpg)
