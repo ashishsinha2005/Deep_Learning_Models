@@ -2,7 +2,7 @@
 
 ## Situation:
 
-- VMware faced prolonged downtime and missed SLA targets due to slow and inefficient detection of service anomalies from images. 
+- Business  faced prolonged downtime and missed SLA targets due to slow and inefficient detection of service anomalies from images. 
 - The delay in identifying and addressing issues led to service disruptions and a decrease in customer satisfaction.
 
 ## Task:
