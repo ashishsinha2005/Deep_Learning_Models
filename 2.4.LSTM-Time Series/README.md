@@ -10,9 +10,8 @@ The objective was to build a forecasting solution with high accuracy to enable b
 
 ## Task:
 
-A machine learning approach was implemented to address the challenge:
--	Synthetic Minority Over-sampling Technique (SMOTE) was used to balance the dataset, improving the model’s ability to predict successful outcomes.
--	Logistic Regression was applied to estimate the likelihood of deals closing within the current quarter based on historical deal data and relevant features.
+- The objective was to build a forecasting solution with high accuracy to enable better sales cadence and informed decision-making. 
+- The solution needed to deliver reliable revenue predictions starting from week 4 of the quarter.
 
 
 ## Action:
