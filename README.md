@@ -37,6 +37,13 @@ Data files are not uploaded for some Models due to their large size. Please feel
 | 16 |  Models87 |pytorch_classification  |
 | 17 | Models143| Image classifications Using Transfer Learning  |
 | 18 | Modesl124 | Image Classification using Multihead Attention Mechanism  |
+| 19 |  198 |Smoking-Detection-using-YOLOv5-main  |
+| 20 |  199 |Face-mask-Detection-Neural-network-using-Tensorflow |
+| 21 |  200 |Helmet-and-number-plate-detection-using-YOLOv8 |
+| 22 |  201 |Deep-Learning  |
+| 23 |  202 |Helmet-detection-using-YOLOV5  |
+| 24 |  203 |Industrial-Safety-Gears-detection-using-YOLOV8  |
+| 25 |  204 |simple_rnn_imdb  |
 
 
 
